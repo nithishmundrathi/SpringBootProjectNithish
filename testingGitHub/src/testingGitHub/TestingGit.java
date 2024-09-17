@@ -8,6 +8,8 @@ public class TestingGit {
 		System.out.println("pora ra");
 		System.out.println("collabrative workspace worked");
 		System.out.println("dream comes true");
+		System.out.println(TestingGitMultiple.getStringOut());
+		System.out.println("na");
 	}
 
 }
